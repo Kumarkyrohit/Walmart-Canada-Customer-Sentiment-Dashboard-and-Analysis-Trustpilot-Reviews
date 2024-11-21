@@ -77,7 +77,7 @@ This project focuses on analyzing customer reviews for Walmart Canada sourced fr
 
 Below is a snapshot of the Power BI dashboard created for this project:
 
-![Walmart Canada Customer Sentiment Dashboard](Visualizations/dashboard_preview.png)
+![Walmart Canada Customer Sentiment Dashboard](dashboard_preview.png)
 
 
 The interactive Power BI dashboard includes:
